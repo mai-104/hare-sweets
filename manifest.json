@@ -1,0 +1,17 @@
+{
+  "id": "/hare-sweets/",
+  "name": "晴れときどきスイーツ",
+  "short_name": "晴れときどきスイーツ",
+  "description": "ブロック着せ替え落ちものパズル",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffe6ee",
+  "theme_color": "#ffe6ee",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
