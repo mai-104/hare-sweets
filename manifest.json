@@ -1,7 +1,7 @@
 {
   "id": "/hare-sweets/",
-  "name": "晴れときどきスイーツ",
-  "short_name": "晴れときどきスイーツ",
+  "name": "秘密の甘いブロック",
+  "short_name": "秘密の甘いブロック",
   "description": "ブロック着せ替え落ちものパズル",
   "start_url": "./",
   "scope": "./",
